@@ -9,9 +9,8 @@ https://github.com/brunodev85/winlator/releases
 
 התקינו את קובץ ה-APK.
 אשרו התקנה ממקור לא ידוע אם צריך.
-פתחו את האפליקציה
+פתחו את האפליקציה.
 
-.
 <p align="center">
   <img src="screenshots/winlator-home.jpg" width="400">
 </p>
@@ -64,6 +63,7 @@ DX Wrapper → WineD3D
 
 ##  קישור להתקנת םיםוש 1 ו 2
 https://archive.org/details/piposh-1setup
+
 https://archive.org/details/piposh-2setup
 
 
