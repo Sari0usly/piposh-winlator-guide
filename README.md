@@ -3,8 +3,10 @@
 
 ## שלב 1 – הורדת והתקנת Winlator
 
-הורידו את Winlatorמהקישור המצורף.
+הורידו את Winlator מהקישור המצורף.
+
 https://github.com/brunodev85/winlator/releases
+
 התקינו את קובץ ה-APK.
 אשרו התקנה ממקור לא ידוע אם צריך.
 פתחו את האפליקציה
