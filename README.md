@@ -49,16 +49,16 @@ DX Wrapper → WineD3D
 
 
 <p align="center">
-  <img src="screenshots/game-setup0.jpg" width="400">
+  <img src="screenshots/game-setup0.jpg" width="600">
 </p>
 <p align="center">
-  <img src="screenshots/game-setup1.jpg" width="400">
+  <img src="screenshots/game-setup1.jpg" width="600">
 </p>
 <p align="center">
-  <img src="screenshots/game2-setup1.jpg" width="400">
+  <img src="screenshots/game2-setup1.jpg" width="600">
 </p>
 <p align="center">
-  <img src="screenshots/game2-setup2.jpg" width="400">
+  <img src="screenshots/game2-setup2.jpg" width="600">
 </p>
 
 ##  קישור להתקנת םיםוש 1 ו 2
