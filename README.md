@@ -29,8 +29,8 @@ Snapdragon → Turnip
 DX Wrapper → WineD3D
 שמרו את ה-Container.
 
-(צרף צילום מסך של הגדרות הקונטיינר)
 
+![Container Settings](screenshots/create-container.jpg)
 ## שלב 4 – התקנת המשחקים
 היכנסו ל-Container.
 פתחו File Explorer.
