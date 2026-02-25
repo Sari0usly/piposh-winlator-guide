@@ -32,7 +32,9 @@ Snapdragon → Turnip
 אחרים → Default
 DX Wrapper → WineD3D
 שמרו את ה-Container.
-
+<p align="center">
+  <img src="screenshots/create-container.jpg" width="400">
+</p>
 
 ## שלב 4 – התקנת המשחקים
 היכנסו ל-Container.
@@ -41,20 +43,18 @@ DX Wrapper → WineD3D
 הפעילו את קובץ ה-setup / installer.
 התקינו כרגיל כמו ב-Windows.
 
+
 <p align="center">
-  <img src="screenshots/create-container.jpg" width="400">
+  <img src="screenshots/game-setup0.jpg" width="400">
 </p>
 <p align="center">
-  <img src="screenshots/game-setup0.jpg.jpg" width="400">
+  <img src="screenshots/game-setup1.jpg" width="400">
 </p>
 <p align="center">
-  <img src="screenshots/game-setup1.jpg.jpg" width="400">
+  <img src="screenshots/game2-setup1.jpg" width="400">
 </p>
 <p align="center">
-  <img src="screenshots/game2-setup1.jpg.jpg" width="400">
-</p>
-<p align="center">
-  <img src="screenshots/game2-setup2.jpg.jpg" width="400">
+  <img src="screenshots/game2-setup2.jpg" width="400">
 </p>
 
 
