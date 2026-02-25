@@ -7,15 +7,18 @@
 התקינו את קובץ ה-APK.
 אשרו התקנה ממקור לא ידוע אם צריך.
 פתחו את האפליקציה.
-(צרף צילום מסך של מסך הבית של Winlator)
-
+<p align="center">
+  <img src="screenshots/winlator-home.jpg" width="500">
+</p>
 ## שלב 2 – הורדת מתקיני המשחק
 הורידו את מתקיני Piposh 1 ו-Piposh 2 מהקישור המצורף.
 העבירו את קבצי ההתקנה לטלפון (לתיקייה כלשהי בזיכרון הפנימי).
 
 לדוגמה:
 Internal Storage > Download > Piposh
-(צרף צילום מסך של התיקייה עם קבצי ההתקנה)
+<p align="center">
+  <img src="screenshots/downloaded-setup.jpg" width="500">
+</p>
 
 ## שלב 3 – יצירת Container של Windows XP
 במסך הראשי לחצו על Create Container.
