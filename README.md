@@ -8,7 +8,7 @@
 אשרו התקנה ממקור לא ידוע אם צריך.
 פתחו את האפליקציה.
 <p align="center">
-  <img src="screenshots/winlator-home.jpg" width="500">
+  <img src="screenshots/winlator-home.jpg" width="400">
 </p>
 ## שלב 2 – הורדת מתקיני המשחק
 הורידו את מתקיני Piposh 1 ו-Piposh 2 מהקישור המצורף.
@@ -17,7 +17,7 @@
 לדוגמה:
 Internal Storage > Download > Piposh
 <p align="center">
-  <img src="screenshots/downloaded-setup.jpg" width="500">
+  <img src="screenshots/downloaded-setup.jpg" width="400">
 </p>
 
 ## שלב 3 – יצירת Container של Windows XP
@@ -31,15 +31,15 @@ Snapdragon → Turnip
 אחרים → Default
 DX Wrapper → WineD3D
 שמרו את ה-Container.
-
-<p align="center">
-  <img src="screenshots/create-container.jpg" width="500">
-</p>
 היכנסו ל-Container.
 פתחו File Explorer.
 גשו לתיקייה שבה שמרתם את קובץ ההתקנה.
 הפעילו את קובץ ה-setup / installer.
 התקינו כרגיל כמו ב-Windows.
+
+<p align="center">
+  <img src="screenshots/create-container.jpg" width="400">
+</p>
 
 ## שלב 5 – הפעלה מה-Shortcut Screen
 לאחר ההתקנה:
