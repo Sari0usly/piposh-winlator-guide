@@ -3,10 +3,13 @@
 
 ## שלב 1 – הורדת והתקנת Winlator
 
-הורידו את Winlator מהקישור המצורף.
+הורידו את Winlatorמהקישור המצורף.
+https://github.com/brunodev85/winlator/releases
 התקינו את קובץ ה-APK.
 אשרו התקנה ממקור לא ידוע אם צריך.
-פתחו את האפליקציה.
+פתחו את האפליקציה
+
+.
 <p align="center">
   <img src="screenshots/winlator-home.jpg" width="400">
 </p>
@@ -57,6 +60,9 @@ DX Wrapper → WineD3D
   <img src="screenshots/game2-setup2.jpg" width="400">
 </p>
 
+##  קישור להתקנת םיםוש 1 ו 2
+https://archive.org/details/piposh-1setup
+https://archive.org/details/piposh-2setup
 
 
 
@@ -70,6 +76,7 @@ DX Wrapper → WineD3D
 <p align="center">
   <img src="screenshots/winlator-shortcut.jpg" width="400">
 </p>
+
 ## ⚠ בעיות ידועות כרגע
 בפיפוש 2 כרגע לא ניתן לשמור (אצלי לפחות).
 עדיין לא נבדק האם העברת קובץ שמירה ממחשב והדבקה לתיקייה תפתור את זה.
@@ -86,7 +93,7 @@ Winlator מאפשר להגדיר תיקייה מהטלפון ככונן בתוך
 תנו לה אות כונן (למשל D:).
 עכשיו בתוך Windows היא תופיע ככונן רגיל.
 
-(צרף צילום מסך של הגדרת Drives)
+(צילום מסך של הגדרת Drives)
 
 ## איך להפעיל קובץ ISO
 אם יש לכם משחק כ-ISO:
