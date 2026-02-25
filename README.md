@@ -10,6 +10,7 @@
 <p align="center">
   <img src="screenshots/winlator-home.jpg" width="400">
 </p>
+
 ## שלב 2 – הורדת מתקיני המשחק
 הורידו את מתקיני Piposh 1 ו-Piposh 2 מהקישור המצורף.
 העבירו את קבצי ההתקנה לטלפון (לתיקייה כלשהי בזיכרון הפנימי).
@@ -31,6 +32,8 @@ Snapdragon → Turnip
 אחרים → Default
 DX Wrapper → WineD3D
 שמרו את ה-Container.
+
+
 היכנסו ל-Container.
 פתחו File Explorer.
 גשו לתיקייה שבה שמרתם את קובץ ההתקנה.
@@ -40,6 +43,21 @@ DX Wrapper → WineD3D
 <p align="center">
   <img src="screenshots/create-container.jpg" width="400">
 </p>
+<p align="center">
+  <img src="screenshots/game-setup0.jpg.jpg" width="400">
+</p>
+<p align="center">
+  <img src="screenshots/game-setup1.jpg.jpg" width="400">
+</p>
+<p align="center">
+  <img src="screenshots/game2-setup1.jpg.jpg" width="400">
+</p>
+<p align="center">
+  <img src="screenshots/game2-setup2.jpg.jpg" width="400">
+</p>
+
+
+
 
 ## שלב 5 – הפעלה מה-Shortcut Screen
 לאחר ההתקנה:
