@@ -34,6 +34,7 @@ DX Wrapper → WineD3D
 שמרו את ה-Container.
 
 
+## שלב 4 – התקנת המשחקים
 היכנסו ל-Container.
 פתחו File Explorer.
 גשו לתיקייה שבה שמרתם את קובץ ההתקנה.
