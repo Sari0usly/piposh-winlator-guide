@@ -40,7 +40,14 @@ DX Wrapper → WineD3D
   <img src="screenshots/create-container.jpg" width="400">
 </p>
 
-## שלב 4 – התקנת המשחקים
+## שלב 4 – הפעלת תמיכה מלאה בעברית
+
+כדי להבטיח תצוגה תקינה של טקסטים בעברית, יש להפעיל תמיכה מלאה במערכת.
+מדריך קצר (3 צעדים בלבד) בקישור הבא: 
+
+👉 https://github.com/Sari0usly/piposh-winlator-guide/blob/main/winlator-hebrew-support.MD
+
+## שלב 5 – התקנת המשחקים
 היכנסו ל-Container.
 פתחו File Explorer.
 גשו לתיקייה שבה שמרתם את קובץ ההתקנה.
@@ -61,14 +68,14 @@ DX Wrapper → WineD3D
   <img src="screenshots/game2-setup2.jpg" width="600">
 </p>
 
-##  קישור להתקנת םיםוש 1 ו 2
-https://archive.org/details/piposh-1setup
+##  קישור להתקנת פיפוש 1 ו 2
 
+https://archive.org/details/piposh-1setup
 https://archive.org/details/piposh-2setup
 
 
 
-## שלב 5 – הפעלה מה-Shortcut Screen
+## שלב 6 – הפעלה מה-Shortcut Screen
 לאחר ההתקנה:
 חזרו למסך הראשי של Winlator.
 המשחק אמור להופיע אוטומטית במסך הקיצורים.
