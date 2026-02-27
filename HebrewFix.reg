@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Nls\CodePage]
+"ACP"="1255"
+"OEMCP"="862"
+"MACCP"="10005"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Nls\Language]
+"Default"="040d"
+"InstallLanguage"="040d"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+"MS Sans Serif"="Arial"
+"MS Serif"="Arial"
+"Times New Roman"="Arial"
+"Tahoma"="Arial"
