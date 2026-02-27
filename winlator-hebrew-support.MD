@@ -1,4 +1,4 @@
-## 🇮🇱 מדריך להפעלת תמיכה מלאה בעברית בתוך Winlator.
+## מדריך להפעלת תמיכה מלאה בעברית בתוך 🇮🇱 Winlator.
 
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
 ![Winlator](https://img.shields.io/badge/Runtime-Winlator-1f6feb)
@@ -149,13 +149,6 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Nls\CodePage
 - בדקו שהקבצים אכן בפורמט TTF.
 - בצעו Restart ל-Container.
 - בדקו Font Substitutes ברג'יסטרי.
-
----
-
-## 5️⃣ בעיות ב-Windows XP בלבד
-
-אם משהו מתנהג מוזר:
-נסו ליצור Container חדש ולהחיל את השלבים מחדש.
 
 ---
 
