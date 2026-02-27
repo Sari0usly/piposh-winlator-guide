@@ -8,8 +8,7 @@
 ![License](https://img.shields.io/badge/License-Guide_Only-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
-מדריך תמיכה בעברית עבור Winlator.  
-מיועד לפתרון בעיות קידוד, פונטים ו־RTL בתוך Windows Container.
+## מדריך תמיכה בעברית עבור Winlator.מיועד לפתרון בעיות קידוד, פונטים ו־RTL בתוך Windows Container.
 
 ---
 
@@ -101,8 +100,8 @@ HebrewFix.reg
 עם זאת, במקרים נדירים בהם תוכנות מתנהגות מוזר (בעיקר ישנות מאוד),
 ניתן להוסיף גם:
 
-'LANG=he_IL.UTF-8'
-'LC_CTYPE=he_IL.UTF-8'
+LANG=he_IL.UTF-8
+LC_CTYPE=he_IL.UTF-8
 
 ⚠️ הערה:
 LC_ALL כבר עוקף את כל המשתנים האחרים.
